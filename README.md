@@ -100,5 +100,6 @@ This project gave me practical exposure to how digital hardware logic is designe
 
 # 👨‍💻 Author
 
-Lakshmi Narasimha Swamy
+Narasimha lakkimsetty
+
 ECE Student | Embedded & VLSI Enthusiast 🚀
