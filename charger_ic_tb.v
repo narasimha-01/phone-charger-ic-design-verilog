@@ -29,7 +29,7 @@ initial begin
 
     battery_full = 1;
     overheating = 1;
-    #100;
+    #10;
 
 end
 
